@@ -8,3 +8,5 @@ This uses CMake to find PCL and OpenCV to compile appropriately so it requires a
 The PCL_Kinect2SDK.cpp file is an example of how to use the grabber.
 
 NOTE: You cannot bind an image callback and a pointcloud callback at the same time. You can only use image/depth callback or a pointcloud callback. This is due to Mat memory management and will be fixed in the new version.
+
+sources from here https://github.com/giacomodabisias/libfreenect2pclgrabber
