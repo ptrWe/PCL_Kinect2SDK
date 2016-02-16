@@ -17,5 +17,6 @@ sources from here https://github.com/giacomodabisias/libfreenect2pclgrabber
 Peter Weßeler:
 I combined the https://github.com/giacomodabisias/libfreenect2pclgrabber Grabber and  PCL_Kinect2SDK. Now i can run PCL Kinfu Large Scale with Kinect2 under Ubuntu
 
-
+Dependences:
+https://github.com/OpenKinect/libfreenect2/
 
