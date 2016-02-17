@@ -1,3 +1,5 @@
+Work in progress!
+
 This program shows how to use the new Kinect with PCL.
 Copyright (C) Steven Hickson 2014. See License.txt
 
